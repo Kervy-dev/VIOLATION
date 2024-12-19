@@ -1,0 +1,1286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\offenses_dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:offenses_dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\notification (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:notification (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\forgot_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:forgot_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\change_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:change_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\dashboard (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:dashboard (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\home (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:home (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\lost-found.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:lost-found.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\major_offenses (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:major_offenses (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\major_offenses (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:major_offenses (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\minor_offenses (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:minor_offenses (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\minor_offense (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:minor_offense (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\archive (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:archive (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\add_account (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:add_account (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\activity_log (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:activity_log (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\accounts (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:accounts (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\about_us (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:about_us (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\about_us (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:about_us (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Event\u0026Lost-Found System||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\dashboard (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:dashboard (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\login_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:login_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\about_us (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:about_us (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\violation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:violation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\violation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:violation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\major_offenses (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:major_offenses (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\home (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:home (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\home (admin).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:home (admin).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\respass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:respass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\respass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:respass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\lost-found.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:lost-found.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\forgot_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:forgot_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\activity_log (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:activity_log (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\prof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:prof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\vform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:vform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\vform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:vform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\vrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:vrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\notifs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:notifs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\prof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:prof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\statisticadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:statisticadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\statisticadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:statisticadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\statistic.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:statistic.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\major_offenses (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:major_offenses (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\minor_offenses (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:minor_offenses (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\offenses_dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:offenses_dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\notification (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:notification (user).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\change_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:change_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\notifs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:notifs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\minor_offenses (user).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:minor_offenses (user).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\major_offenses (user).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:major_offenses (user).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\dashboard (admin).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:dashboard (admin).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\accounts (admin).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:accounts (admin).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\add_account (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:add_account (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\minor_offense (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:minor_offense (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\minor_offense (admin).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:minor_offense (admin).designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\archive (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:archive (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\prof.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:prof.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\vrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:vrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\trecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:trecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\trecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:trecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\termsandconditionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:termsandconditionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\accounts (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:accounts (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\about_us (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:about_us (admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\vform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:vform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\termsandconditionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:termsandconditionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\notifs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:notifs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|solutionrelative:reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434EBE84-0AC1-4E46-A71B-AD6E889E3142}|Event\u0026Lost-Found System.csproj|c:\\users\\petwu\\source\\repos\\event\u0026lost-found system\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 127,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 48,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "violation.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\violation.cs",
+              "RelativeDocumentMoniker": "violation.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\violation.cs",
+              "RelativeToolTip": "violation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:40:40.657Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "prof.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\prof.cs",
+              "RelativeDocumentMoniker": "prof.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\prof.cs [Design]",
+              "RelativeToolTip": "prof.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:18:46.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard (Admin).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Dashboard (Admin).cs",
+              "RelativeDocumentMoniker": "Dashboard (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Dashboard (Admin).cs [Design]",
+              "RelativeToolTip": "Dashboard (Admin).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:56:58.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Activity_Log (Admin).cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Activity_Log (Admin).cs",
+              "RelativeDocumentMoniker": "Activity_Log (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Activity_Log (Admin).cs",
+              "RelativeToolTip": "Activity_Log (Admin).cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEUAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:42:47.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Vform.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Vform.Designer.cs",
+              "RelativeDocumentMoniker": "Vform.Designer.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Vform.Designer.cs",
+              "RelativeToolTip": "Vform.Designer.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAcwA8BAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:35:00.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Statistic.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Statistic.Designer.cs",
+              "RelativeDocumentMoniker": "Statistic.Designer.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Statistic.Designer.cs",
+              "RelativeToolTip": "Statistic.Designer.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAiwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:40:56.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StatisticAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\StatisticAdmin.cs",
+              "RelativeDocumentMoniker": "StatisticAdmin.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\StatisticAdmin.cs",
+              "RelativeToolTip": "StatisticAdmin.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:35:51.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StatisticAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\StatisticAdmin.cs",
+              "RelativeDocumentMoniker": "StatisticAdmin.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\StatisticAdmin.cs [Design]",
+              "RelativeToolTip": "StatisticAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:34:46.505Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Archive (Admin).cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Archive (Admin).cs",
+              "RelativeDocumentMoniker": "Archive (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Archive (Admin).cs",
+              "RelativeToolTip": "Archive (Admin).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:44:41.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Archive (Admin).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Archive (Admin).cs",
+              "RelativeDocumentMoniker": "Archive (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Archive (Admin).cs [Design]",
+              "RelativeToolTip": "Archive (Admin).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:41:47.711Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "notifs.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\notifs.Designer.cs",
+              "RelativeDocumentMoniker": "notifs.Designer.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\notifs.Designer.cs",
+              "RelativeToolTip": "notifs.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwGcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T06:10:54.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Trecord.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Trecord.cs",
+              "RelativeDocumentMoniker": "Trecord.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Trecord.cs",
+              "RelativeToolTip": "Trecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:48:22.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Vrecord.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Vrecord.cs",
+              "RelativeDocumentMoniker": "Vrecord.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Vrecord.cs",
+              "RelativeToolTip": "Vrecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:46:03.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-24T05:43:45.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "notifs.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\notifs.cs",
+              "RelativeDocumentMoniker": "notifs.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\notifs.cs",
+              "RelativeToolTip": "notifs.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:43:22.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Activity_Log (Admin).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Activity_Log (Admin).cs",
+              "RelativeDocumentMoniker": "Activity_Log (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Activity_Log (Admin).cs [Design]",
+              "RelativeToolTip": "Activity_Log (Admin).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:23:00.083Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Trecord.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Trecord.cs",
+              "RelativeDocumentMoniker": "Trecord.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Trecord.cs [Design]",
+              "RelativeToolTip": "Trecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:14:03.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Vrecord.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Vrecord.cs",
+              "RelativeDocumentMoniker": "Vrecord.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Vrecord.cs [Design]",
+              "RelativeToolTip": "Vrecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:09:18.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Records.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Records.cs",
+              "RelativeDocumentMoniker": "Records.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Records.cs",
+              "RelativeToolTip": "Records.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:19:19.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Records.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Records.cs",
+              "RelativeDocumentMoniker": "Records.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Records.cs [Design]",
+              "RelativeToolTip": "Records.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:12:19.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Statistic.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Statistic.cs",
+              "RelativeDocumentMoniker": "Statistic.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Statistic.cs",
+              "RelativeToolTip": "Statistic.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:51:36.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Statistic.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Statistic.cs",
+              "RelativeDocumentMoniker": "Statistic.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Statistic.cs [Design]",
+              "RelativeToolTip": "Statistic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:46:51.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Change_Password.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Change_Password.cs",
+              "RelativeDocumentMoniker": "Change_Password.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Change_Password.cs",
+              "RelativeToolTip": "Change_Password.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAG0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:48:17.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Change_Password.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Change_Password.cs",
+              "RelativeDocumentMoniker": "Change_Password.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Change_Password.cs [Design]",
+              "RelativeToolTip": "Change_Password.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:47:31.519Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "prof.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\prof.Designer.cs",
+              "RelativeDocumentMoniker": "prof.Designer.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\prof.Designer.cs",
+              "RelativeToolTip": "prof.Designer.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAEwP8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:46:24.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Minor_Offense (Admin).Designer.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Minor_Offense (Admin).Designer.cs",
+              "RelativeDocumentMoniker": "Minor_Offense (Admin).Designer.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Minor_Offense (Admin).Designer.cs",
+              "RelativeToolTip": "Minor_Offense (Admin).Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:12:19.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Minor_Offense (Admin).cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Minor_Offense (Admin).cs",
+              "RelativeDocumentMoniker": "Minor_Offense (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Minor_Offense (Admin).cs",
+              "RelativeToolTip": "Minor_Offense (Admin).cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAnwHAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:03:12.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Minor_Offense (Admin).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Minor_Offense (Admin).cs",
+              "RelativeDocumentMoniker": "Minor_Offense (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Minor_Offense (Admin).cs [Design]",
+              "RelativeToolTip": "Minor_Offense (Admin).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:59:41.293Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "notifs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\notifs.cs",
+              "RelativeDocumentMoniker": "notifs.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\notifs.cs [Design]",
+              "RelativeToolTip": "notifs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:31:59.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:45:32.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Dashboard (Admin).Designer.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Dashboard (Admin).Designer.cs",
+              "RelativeDocumentMoniker": "Dashboard (Admin).Designer.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Dashboard (Admin).Designer.cs",
+              "RelativeToolTip": "Dashboard (Admin).Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:13:07.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "About_us (Admin).cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\About_us (Admin).cs",
+              "RelativeDocumentMoniker": "About_us (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\About_us (Admin).cs",
+              "RelativeToolTip": "About_us (Admin).cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:47:58.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "About_us (Admin).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\About_us (Admin).cs",
+              "RelativeDocumentMoniker": "About_us (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\About_us (Admin).cs [Design]",
+              "RelativeToolTip": "About_us (Admin).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:44:27.413Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Notification (User).cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Notification (User).cs",
+              "RelativeDocumentMoniker": "Notification (User).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Notification (User).cs",
+              "RelativeToolTip": "Notification (User).cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwDsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:21:04.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard (Admin).cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Dashboard (Admin).cs",
+              "RelativeDocumentMoniker": "Dashboard (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Dashboard (Admin).cs",
+              "RelativeToolTip": "Dashboard (Admin).cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:13:47.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Accounts (Admin).Designer.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Accounts (Admin).Designer.cs",
+              "RelativeDocumentMoniker": "Accounts (Admin).Designer.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Accounts (Admin).Designer.cs",
+              "RelativeToolTip": "Accounts (Admin).Designer.cs",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:45:14.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Lost-Found.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Lost-Found.cs",
+              "RelativeDocumentMoniker": "Lost-Found.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Lost-Found.cs",
+              "RelativeToolTip": "Lost-Found.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:12:28.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lost-Found.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Lost-Found.cs",
+              "RelativeDocumentMoniker": "Lost-Found.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Lost-Found.cs [Design]",
+              "RelativeToolTip": "Lost-Found.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:12:11.345Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notification (User).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Notification (User).cs",
+              "RelativeDocumentMoniker": "Notification (User).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Notification (User).cs [Design]",
+              "RelativeToolTip": "Notification (User).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:12:13.539Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "About_us (User).cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\About_us (User).cs",
+              "RelativeDocumentMoniker": "About_us (User).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\About_us (User).cs",
+              "RelativeToolTip": "About_us (User).cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:08:21.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "About_us (User).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\About_us (User).cs",
+              "RelativeDocumentMoniker": "About_us (User).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\About_us (User).cs [Design]",
+              "RelativeToolTip": "About_us (User).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:51:40.683Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Major_Offenses (User).Designer.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Major_Offenses (User).Designer.cs",
+              "RelativeDocumentMoniker": "Major_Offenses (User).Designer.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Major_Offenses (User).Designer.cs",
+              "RelativeToolTip": "Major_Offenses (User).Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:28:44.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Minor_Offenses (User).Designer.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Minor_Offenses (User).Designer.cs",
+              "RelativeDocumentMoniker": "Minor_Offenses (User).Designer.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Minor_Offenses (User).Designer.cs",
+              "RelativeToolTip": "Minor_Offenses (User).Designer.cs",
+              "ViewState": "AgIAAL0FAAAAAAAAAAAgwNQFAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:11:26.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Major_Offenses (User).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Major_Offenses (User).cs",
+              "RelativeDocumentMoniker": "Major_Offenses (User).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Major_Offenses (User).cs [Design]",
+              "RelativeToolTip": "Major_Offenses (User).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:53:29.538Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Minor_Offenses (User).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Minor_Offenses (User).cs",
+              "RelativeDocumentMoniker": "Minor_Offenses (User).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Minor_Offenses (User).cs [Design]",
+              "RelativeToolTip": "Minor_Offenses (User).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:52:55.05Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Offenses_dropdown.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Offenses_dropdown.cs",
+              "RelativeDocumentMoniker": "Offenses_dropdown.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Offenses_dropdown.cs*",
+              "RelativeToolTip": "Offenses_dropdown.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:07:12.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Offenses_dropdown.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Offenses_dropdown.cs",
+              "RelativeDocumentMoniker": "Offenses_dropdown.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Offenses_dropdown.cs [Design]*",
+              "RelativeToolTip": "Offenses_dropdown.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:05:17.174Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "TermsAndConditionsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\TermsAndConditionsForm.cs",
+              "RelativeDocumentMoniker": "TermsAndConditionsForm.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\TermsAndConditionsForm.cs [Design]",
+              "RelativeToolTip": "TermsAndConditionsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:33:07.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TermsAndConditionsForm.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\TermsAndConditionsForm.cs",
+              "RelativeDocumentMoniker": "TermsAndConditionsForm.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\TermsAndConditionsForm.cs",
+              "RelativeToolTip": "TermsAndConditionsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:49:47.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Minor_Offenses (User).cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Minor_Offenses (User).cs",
+              "RelativeDocumentMoniker": "Minor_Offenses (User).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Minor_Offenses (User).cs",
+              "RelativeToolTip": "Minor_Offenses (User).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:56:48.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "user.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\user.Designer.cs",
+              "RelativeDocumentMoniker": "user.Designer.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\user.Designer.cs",
+              "RelativeToolTip": "user.Designer.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAIAwwJsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:51:22.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Vform.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Vform.cs",
+              "RelativeDocumentMoniker": "Vform.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Vform.cs",
+              "RelativeToolTip": "Vform.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAYwI8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:44:09.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Vform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Vform.cs",
+              "RelativeDocumentMoniker": "Vform.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Vform.cs [Design]",
+              "RelativeToolTip": "Vform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:36:24.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Major_Offenses (User).cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Major_Offenses (User).cs",
+              "RelativeDocumentMoniker": "Major_Offenses (User).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Major_Offenses (User).cs",
+              "RelativeToolTip": "Major_Offenses (User).cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwHMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:55:00.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\user.cs",
+              "RelativeDocumentMoniker": "user.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\user.cs",
+              "RelativeToolTip": "user.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:36:04.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login_Form.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Login_Form.cs",
+              "RelativeDocumentMoniker": "Login_Form.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Login_Form.cs*",
+              "RelativeToolTip": "Login_Form.cs*",
+              "ViewState": "AgIAAOEAAAAAAAAAAAA6wOsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:07:02.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "prof.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\prof.cs",
+              "RelativeDocumentMoniker": "prof.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\prof.cs",
+              "RelativeToolTip": "prof.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:29:41.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add_Account (Admin).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Add_Account (Admin).cs",
+              "RelativeDocumentMoniker": "Add_Account (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Add_Account (Admin).cs [Design]",
+              "RelativeToolTip": "Add_Account (Admin).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:42:13.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Add_Account (Admin).cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Add_Account (Admin).cs",
+              "RelativeDocumentMoniker": "Add_Account (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Add_Account (Admin).cs",
+              "RelativeToolTip": "Add_Account (Admin).cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:51:36.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Accounts (Admin).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Accounts (Admin).cs",
+              "RelativeDocumentMoniker": "Accounts (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Accounts (Admin).cs [Design]",
+              "RelativeToolTip": "Accounts (Admin).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:53:29.432Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Accounts (Admin).cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Accounts (Admin).cs",
+              "RelativeDocumentMoniker": "Accounts (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Accounts (Admin).cs",
+              "RelativeToolTip": "Accounts (Admin).cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:02:55.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "user.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\user.cs",
+              "RelativeDocumentMoniker": "user.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\user.cs [Design]",
+              "RelativeToolTip": "user.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:19:01.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "respass.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\respass.cs",
+              "RelativeDocumentMoniker": "respass.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\respass.cs",
+              "RelativeToolTip": "respass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:51:26.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "respass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\respass.cs",
+              "RelativeDocumentMoniker": "respass.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\respass.cs [Design]",
+              "RelativeToolTip": "respass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:35:21.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "reset.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\reset.cs",
+              "RelativeDocumentMoniker": "reset.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\reset.cs [Design]",
+              "RelativeToolTip": "reset.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:21:11.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Forgot_Password.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Forgot_Password.cs",
+              "RelativeDocumentMoniker": "Forgot_Password.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Forgot_Password.cs*",
+              "RelativeToolTip": "Forgot_Password.cs*",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:19:07.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Forgot_Password.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Forgot_Password.cs",
+              "RelativeDocumentMoniker": "Forgot_Password.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Forgot_Password.cs [Design]*",
+              "RelativeToolTip": "Forgot_Password.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:00:14.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Major_Offenses (Admin).cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Major_Offenses (Admin).cs",
+              "RelativeDocumentMoniker": "Major_Offenses (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Major_Offenses (Admin).cs",
+              "RelativeToolTip": "Major_Offenses (Admin).cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:27:39.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Major_Offenses (Admin).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Major_Offenses (Admin).cs",
+              "RelativeDocumentMoniker": "Major_Offenses (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Major_Offenses (Admin).cs [Design]",
+              "RelativeToolTip": "Major_Offenses (Admin).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:27:20.596Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "violation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\violation.cs",
+              "RelativeDocumentMoniker": "violation.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\violation.cs [Design]",
+              "RelativeToolTip": "violation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:25:30.955Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Home (Admin).Designer.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Home (Admin).Designer.cs",
+              "RelativeDocumentMoniker": "Home (Admin).Designer.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Home (Admin).Designer.cs",
+              "RelativeToolTip": "Home (Admin).Designer.cs",
+              "ViewState": "AgIAALEBAAAAAAAAAAAAAJkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:15:48.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Home (Admin).cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Home (Admin).cs",
+              "RelativeDocumentMoniker": "Home (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Home (Admin).cs",
+              "RelativeToolTip": "Home (Admin).cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAA8wMcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:11:47.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login_Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Login_Form.Designer.cs",
+              "RelativeDocumentMoniker": "Login_Form.Designer.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Login_Form.Designer.cs",
+              "RelativeToolTip": "Login_Form.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:01:43.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Event\u0026Lost-Found System",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Event\u0026Lost-Found System.csproj",
+              "RelativeDocumentMoniker": "Event\u0026Lost-Found System.csproj",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Event\u0026Lost-Found System.csproj*",
+              "RelativeToolTip": "Event\u0026Lost-Found System.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-29T22:28:59.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Login_Form.cs",
+              "RelativeDocumentMoniker": "Login_Form.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Login_Form.cs [Design]*",
+              "RelativeToolTip": "Login_Form.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:03:50.076Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "reset.cs",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\reset.cs",
+              "RelativeDocumentMoniker": "reset.cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\reset.cs",
+              "RelativeToolTip": "reset.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:41:38.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home (Admin).cs [Design]",
+              "DocumentMoniker": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Home (Admin).cs",
+              "RelativeDocumentMoniker": "Home (Admin).cs",
+              "ToolTip": "C:\\Users\\petwu\\source\\repos\\Event\u0026Lost-Found System\\Home (Admin).cs [Design]",
+              "RelativeToolTip": "Home (Admin).cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:47:21.549Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

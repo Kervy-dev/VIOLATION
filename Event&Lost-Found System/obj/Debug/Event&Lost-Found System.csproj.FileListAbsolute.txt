@@ -1,0 +1,40 @@
+C:\Users\petwu\source\repos\Event&Lost-Found System\bin\Debug\Event&Lost-Found System.exe.config
+C:\Users\petwu\source\repos\Event&Lost-Found System\bin\Debug\Event&Lost-Found System.exe
+C:\Users\petwu\source\repos\Event&Lost-Found System\bin\Debug\Event&Lost-Found System.pdb
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event&Lost-Found System.csproj.AssemblyReference.cache
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Form1.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Properties.Resources.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event&Lost-Found System.csproj.GenerateResource.cache
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event&Lost-Found System.csproj.CoreCompileInputs.cache
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event&Lost-Found System.exe
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event&Lost-Found System.pdb
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Lost_Found.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Form3.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.home.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.violation.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.user.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Vform.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.prof.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.acc.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.add.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.TermsAndConditionsForm.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.major.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Minor.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.about.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.notif.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.abt.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.notifs.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.AdminMinor.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.change.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Statistic.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Records.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Actlog.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Vrecord.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Archive.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.StatisticAdmin.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Major_Offenses.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Forgot_Password.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Offenses_dropdown.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Verification_Code.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Reset_Password.resources
+C:\Users\petwu\source\repos\Event&Lost-Found System\obj\Debug\Event_Lost_Found_System.Task_Records.resources

@@ -48,113 +48,113 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="about.cs">
+    <Compile Include="About_us_User.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="about.Designer.cs">
-      <DependentUpon>about.cs</DependentUpon>
+    <Compile Include="About_us_User.Designer.cs">
+      <DependentUpon>About_us_User.cs</DependentUpon>
     </Compile>
-    <Compile Include="abt.cs">
+    <Compile Include="About_us_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="abt.Designer.cs">
-      <DependentUpon>abt.cs</DependentUpon>
+    <Compile Include="About_us_Admin.Designer.cs">
+      <DependentUpon>About_us_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="acc.cs">
+    <Compile Include="Accounts_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="acc.Designer.cs">
-      <DependentUpon>acc.cs</DependentUpon>
+    <Compile Include="Accounts_Admin.Designer.cs">
+      <DependentUpon>Accounts_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Actlog.cs">
+    <Compile Include="Activity_Log_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Actlog.Designer.cs">
-      <DependentUpon>Actlog.cs</DependentUpon>
+    <Compile Include="Activity_Log_Admin.Designer.cs">
+      <DependentUpon>Activity_Log_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="add.cs">
+    <Compile Include="Create_Account_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="add.Designer.cs">
-      <DependentUpon>add.cs</DependentUpon>
+    <Compile Include="Create_Account_Admin.Designer.cs">
+      <DependentUpon>Create_Account_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="AdminMinor.cs">
+    <Compile Include="Minor_Offenses_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AdminMinor.Designer.cs">
-      <DependentUpon>AdminMinor.cs</DependentUpon>
+    <Compile Include="Minor_Offenses_Admin.Designer.cs">
+      <DependentUpon>Minor_Offenses_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Archive.cs">
+    <Compile Include="Archive_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Archive.Designer.cs">
-      <DependentUpon>Archive.cs</DependentUpon>
+    <Compile Include="Archive_Admin.Designer.cs">
+      <DependentUpon>Archive_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="change.cs">
+    <Compile Include="Change_Password.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="change.Designer.cs">
-      <DependentUpon>change.cs</DependentUpon>
+    <Compile Include="Change_Password.Designer.cs">
+      <DependentUpon>Change_Password.cs</DependentUpon>
     </Compile>
-    <Compile Include="clubs.cs">
+    <Compile Include="Major_Offenses_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="clubs.Designer.cs">
-      <DependentUpon>clubs.cs</DependentUpon>
+    <Compile Include="Major_Offenses_Admin.Designer.cs">
+      <DependentUpon>Major_Offenses_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Event&amp;Lost-Found System.cs">
+    <Compile Include="Login_Form.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Event&amp;Lost-Found System.Designer.cs">
-      <DependentUpon>Event&amp;Lost-Found System.cs</DependentUpon>
+    <Compile Include="Login_Form.Designer.cs">
+      <DependentUpon>Login_Form.cs</DependentUpon>
     </Compile>
-    <Compile Include="forgot.cs">
+    <Compile Include="Reset_Password.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="forgot.Designer.cs">
-      <DependentUpon>forgot.cs</DependentUpon>
+    <Compile Include="Reset_Password.Designer.cs">
+      <DependentUpon>Reset_Password.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form3.cs">
+    <Compile Include="Home_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form3.Designer.cs">
-      <DependentUpon>Form3.cs</DependentUpon>
+    <Compile Include="Home_Admin.Designer.cs">
+      <DependentUpon>Home_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="home.cs">
+    <Compile Include="Dashboard_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="home.Designer.cs">
-      <DependentUpon>home.cs</DependentUpon>
+    <Compile Include="Dashboard_Admin.Designer.cs">
+      <DependentUpon>Dashboard_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Lost-Found.cs">
+    <Compile Include="Sign_Up_.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Lost-Found.Designer.cs">
-      <DependentUpon>Lost-Found.cs</DependentUpon>
+    <Compile Include="Sign_Up_.Designer.cs">
+      <DependentUpon>Sign_Up_.cs</DependentUpon>
     </Compile>
-    <Compile Include="major.cs">
+    <Compile Include="Major_Offenses_User.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="major.Designer.cs">
-      <DependentUpon>major.cs</DependentUpon>
+    <Compile Include="Major_Offenses_User.Designer.cs">
+      <DependentUpon>Major_Offenses_User.cs</DependentUpon>
     </Compile>
-    <Compile Include="Minor.cs">
+    <Compile Include="Minor_Offenses_User.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Minor.Designer.cs">
-      <DependentUpon>Minor.cs</DependentUpon>
+    <Compile Include="Minor_Offenses_User.Designer.cs">
+      <DependentUpon>Minor_Offenses_User.cs</DependentUpon>
     </Compile>
-    <Compile Include="notif.cs">
+    <Compile Include="Notification_User.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="notif.Designer.cs">
-      <DependentUpon>notif.cs</DependentUpon>
+    <Compile Include="Notification_User.Designer.cs">
+      <DependentUpon>Notification_User.cs</DependentUpon>
     </Compile>
-    <Compile Include="notifs.cs">
+    <Compile Include="Notification_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="notifs.Designer.cs">
-      <DependentUpon>notifs.cs</DependentUpon>
+    <Compile Include="Notification_Admin.Designer.cs">
+      <DependentUpon>Notification_Admin.cs</DependentUpon>
     </Compile>
     <Compile Include="offense.cs">
       <SubType>Form</SubType>
@@ -162,43 +162,43 @@
     <Compile Include="offense.Designer.cs">
       <DependentUpon>offense.cs</DependentUpon>
     </Compile>
-    <Compile Include="prof.cs">
+    <Compile Include="Dashboard_User.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="prof.Designer.cs">
-      <DependentUpon>prof.cs</DependentUpon>
+    <Compile Include="Dashboard_User.Designer.cs">
+      <DependentUpon>Dashboard_User.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Records.cs">
+    <Compile Include="Records_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Records.Designer.cs">
-      <DependentUpon>Records.cs</DependentUpon>
+    <Compile Include="Records_Admin.Designer.cs">
+      <DependentUpon>Records_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="reset.cs">
+    <Compile Include="Verification_Code.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="reset.Designer.cs">
-      <DependentUpon>reset.cs</DependentUpon>
+    <Compile Include="Verification_Code.Designer.cs">
+      <DependentUpon>Verification_Code.cs</DependentUpon>
     </Compile>
-    <Compile Include="respass.cs">
+    <Compile Include="Reset_Password_A.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="respass.Designer.cs">
-      <DependentUpon>respass.cs</DependentUpon>
+    <Compile Include="Reset_Password_A.Designer.cs">
+      <DependentUpon>Reset_Password_A.cs</DependentUpon>
     </Compile>
-    <Compile Include="Statistic.cs">
+    <Compile Include="Statistic_User.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Statistic.Designer.cs">
-      <DependentUpon>Statistic.cs</DependentUpon>
+    <Compile Include="Statistic_User.Designer.cs">
+      <DependentUpon>Statistic_User.cs</DependentUpon>
     </Compile>
-    <Compile Include="StatisticAdmin.cs">
+    <Compile Include="Statistic_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="StatisticAdmin.Designer.cs">
-      <DependentUpon>StatisticAdmin.cs</DependentUpon>
+    <Compile Include="Statistic_Admin.Designer.cs">
+      <DependentUpon>Statistic_Admin.cs</DependentUpon>
     </Compile>
     <Compile Include="TermsAndConditionsForm.cs">
       <SubType>Form</SubType>
@@ -206,95 +206,95 @@
     <Compile Include="TermsAndConditionsForm.Designer.cs">
       <DependentUpon>TermsAndConditionsForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Trecord.cs">
+    <Compile Include="Task_Records_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Trecord.Designer.cs">
-      <DependentUpon>Trecord.cs</DependentUpon>
+    <Compile Include="Task_Records_Admin.Designer.cs">
+      <DependentUpon>Task_Records_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="user.cs">
+    <Compile Include="Home_User.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="user.Designer.cs">
-      <DependentUpon>user.cs</DependentUpon>
+    <Compile Include="Home_User.Designer.cs">
+      <DependentUpon>Home_User.cs</DependentUpon>
     </Compile>
-    <Compile Include="Vform.cs">
+    <Compile Include="Violation_Form_User.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Vform.Designer.cs">
-      <DependentUpon>Vform.cs</DependentUpon>
+    <Compile Include="Violation_Form_User.Designer.cs">
+      <DependentUpon>Violation_Form_User.cs</DependentUpon>
     </Compile>
-    <Compile Include="violation.cs">
+    <Compile Include="Violation_Crud_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="violation.Designer.cs">
-      <DependentUpon>violation.cs</DependentUpon>
+    <Compile Include="Violation_Crud_Admin.Designer.cs">
+      <DependentUpon>Violation_Crud_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Vrecord.cs">
+    <Compile Include="Violation_Records_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Vrecord.Designer.cs">
-      <DependentUpon>Vrecord.cs</DependentUpon>
+    <Compile Include="Violation_Records_Admin.Designer.cs">
+      <DependentUpon>Violation_Records_Admin.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="about.resx">
-      <DependentUpon>about.cs</DependentUpon>
+    <EmbeddedResource Include="About_us_User.resx">
+      <DependentUpon>About_us_User.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="abt.resx">
-      <DependentUpon>abt.cs</DependentUpon>
+    <EmbeddedResource Include="About_us_Admin.resx">
+      <DependentUpon>About_us_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="acc.resx">
-      <DependentUpon>acc.cs</DependentUpon>
+    <EmbeddedResource Include="Accounts_Admin.resx">
+      <DependentUpon>Accounts_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Actlog.resx">
-      <DependentUpon>Actlog.cs</DependentUpon>
+    <EmbeddedResource Include="Activity_Log_Admin.resx">
+      <DependentUpon>Activity_Log_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="add.resx">
-      <DependentUpon>add.cs</DependentUpon>
+    <EmbeddedResource Include="Create_Account_Admin.resx">
+      <DependentUpon>Create_Account_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="AdminMinor.resx">
-      <DependentUpon>AdminMinor.cs</DependentUpon>
+    <EmbeddedResource Include="Minor_Offenses_Admin.resx">
+      <DependentUpon>Minor_Offenses_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Archive.resx">
-      <DependentUpon>Archive.cs</DependentUpon>
+    <EmbeddedResource Include="Archive_Admin.resx">
+      <DependentUpon>Archive_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="change.resx">
-      <DependentUpon>change.cs</DependentUpon>
+    <EmbeddedResource Include="Change_Password.resx">
+      <DependentUpon>Change_Password.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="clubs.resx">
-      <DependentUpon>clubs.cs</DependentUpon>
+    <EmbeddedResource Include="Major_Offenses_Admin.resx">
+      <DependentUpon>Major_Offenses_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Event&amp;Lost-Found System.resx">
-      <DependentUpon>Event&amp;Lost-Found System.cs</DependentUpon>
+    <EmbeddedResource Include="Login_Form.resx">
+      <DependentUpon>Login_Form.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="forgot.resx">
-      <DependentUpon>forgot.cs</DependentUpon>
+    <EmbeddedResource Include="Reset_Password.resx">
+      <DependentUpon>Reset_Password.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form3.resx">
-      <DependentUpon>Form3.cs</DependentUpon>
+    <EmbeddedResource Include="Home_Admin.resx">
+      <DependentUpon>Home_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="home.resx">
-      <DependentUpon>home.cs</DependentUpon>
+    <EmbeddedResource Include="Dashboard_Admin.resx">
+      <DependentUpon>Dashboard_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Lost-Found.resx">
-      <DependentUpon>Lost-Found.cs</DependentUpon>
+    <EmbeddedResource Include="Sign_Up_.resx">
+      <DependentUpon>Sign_Up_.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="major.resx">
-      <DependentUpon>major.cs</DependentUpon>
+    <EmbeddedResource Include="Major_Offenses_User.resx">
+      <DependentUpon>Major_Offenses_User.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Minor.resx">
-      <DependentUpon>Minor.cs</DependentUpon>
+    <EmbeddedResource Include="Minor_Offenses_User.resx">
+      <DependentUpon>Minor_Offenses_User.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="notif.resx">
-      <DependentUpon>notif.cs</DependentUpon>
+    <EmbeddedResource Include="Notification_User.resx">
+      <DependentUpon>Notification_User.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="notifs.resx">
-      <DependentUpon>notifs.cs</DependentUpon>
+    <EmbeddedResource Include="Notification_Admin.resx">
+      <DependentUpon>Notification_Admin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="offense.resx">
       <DependentUpon>offense.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="prof.resx">
-      <DependentUpon>prof.cs</DependentUpon>
+    <EmbeddedResource Include="Dashboard_User.resx">
+      <DependentUpon>Dashboard_User.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -306,38 +306,38 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="Records.resx">
-      <DependentUpon>Records.cs</DependentUpon>
+    <EmbeddedResource Include="Records_Admin.resx">
+      <DependentUpon>Records_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="reset.resx">
-      <DependentUpon>reset.cs</DependentUpon>
+    <EmbeddedResource Include="Verification_Code.resx">
+      <DependentUpon>Verification_Code.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="respass.resx">
-      <DependentUpon>respass.cs</DependentUpon>
+    <EmbeddedResource Include="Reset_Password_A.resx">
+      <DependentUpon>Reset_Password_A.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Statistic.resx">
-      <DependentUpon>Statistic.cs</DependentUpon>
+    <EmbeddedResource Include="Statistic_User.resx">
+      <DependentUpon>Statistic_User.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="StatisticAdmin.resx">
-      <DependentUpon>StatisticAdmin.cs</DependentUpon>
+    <EmbeddedResource Include="Statistic_Admin.resx">
+      <DependentUpon>Statistic_Admin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TermsAndConditionsForm.resx">
       <DependentUpon>TermsAndConditionsForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Trecord.resx">
-      <DependentUpon>Trecord.cs</DependentUpon>
+    <EmbeddedResource Include="Task_Records_Admin.resx">
+      <DependentUpon>Task_Records_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="user.resx">
-      <DependentUpon>user.cs</DependentUpon>
+    <EmbeddedResource Include="Home_User.resx">
+      <DependentUpon>Home_User.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Vform.resx">
-      <DependentUpon>Vform.cs</DependentUpon>
+    <EmbeddedResource Include="Violation_Form_User.resx">
+      <DependentUpon>Violation_Form_User.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="violation.resx">
-      <DependentUpon>violation.cs</DependentUpon>
+    <EmbeddedResource Include="Violation_Crud_Admin.resx">
+      <DependentUpon>Violation_Crud_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Vrecord.resx">
-      <DependentUpon>Vrecord.cs</DependentUpon>
+    <EmbeddedResource Include="Violation_Records_Admin.resx">
+      <DependentUpon>Violation_Records_Admin.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

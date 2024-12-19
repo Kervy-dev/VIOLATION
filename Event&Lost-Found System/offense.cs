@@ -20,13 +20,13 @@ namespace Event_Lost_Found_System
 
         private void btnvio_Click(object sender, EventArgs e)
         {
-            new Vform().Show();
+            new Violation_Form_User().Show();
             this.Hide();
         }
 
         private void btnH_Click(object sender, EventArgs e)
         {
-            new user().Show();
+            new Home_User().Show();
             this.Hide();
         }
 
@@ -61,7 +61,7 @@ namespace Event_Lost_Found_System
         private void ShowMajorForm()
         {
             // Open the form for Major Offenses
-            major majorForm = new major();
+            Major_Offenses_User majorForm = new Major_Offenses_User();
             majorForm.Show();
             this.Hide(); // Hide the current form
         }
@@ -69,7 +69,7 @@ namespace Event_Lost_Found_System
         private void ShowMinorForm()
         {
             // Open the form for Minor Offenses
-            Minor minorForm = new Minor();
+            Minor_Offenses_User minorForm = new Minor_Offenses_User();
             minorForm.Show();
             this.Hide(); // Hide the current form
 
@@ -83,14 +83,14 @@ namespace Event_Lost_Found_System
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            prof profileForm = new prof(userId);
+            Dashboard_User profileForm = new Dashboard_User(userId);
             profileForm.Show(); // Show the profile form
             this.Hide();        // Hide the login form
         }
 
         private void button25_Click(object sender, EventArgs e)
         {
-            new Statistic().Show();
+            new Statistic_User().Show();
             this.Hide();
         }
     }
